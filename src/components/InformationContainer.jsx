@@ -13,7 +13,7 @@ const InformationContainer = () => {
              <AiFillPhone id="phone-icon" />
             <div>
                 <h3>Telefone</h3>
-                <p>(11)99999-9999</p>
+                <p>(11) 98707-1239</p>
             </div>
         </div>
 
@@ -21,7 +21,7 @@ const InformationContainer = () => {
             <AiOutlineMail id="email-icon" />
             <div>
                 <h3>E-mail</h3>
-                <p>vinicius.jcarlos@gmail.com</p>
+                <p>vinicius.jcarlos@hotmail.com</p>
             </div>
         </div>
 

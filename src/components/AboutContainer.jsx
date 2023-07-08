@@ -8,24 +8,21 @@ const AboutContainer = () => {
 
             <p>
 
-                Lorem Ipsueeem é simplesmente uma simulação de texto da indústria tipográfica e de impressos, 
-                e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja
-                de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não 
-                só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado.
-                Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum, 
-                e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus PageMaker.
+            Analista Programador, com conhecimentos nas tecnologias de front-end, html, css, javascript e angular em back-end java, c#, e php
+            conhecimento técnico em banco de dados sql e oracle. Pós graduado em desenvolvimento fullstack. 
 
 
             </p>
 
             <p>
 
-                Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, 
-                e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja
-                de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não 
-                só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado.
-                Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum, 
-                e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus PageMaker.
+                Última experiência: Analista com foco em suporte a aplicações Acionamento a fornecedores e Suporte. 
+                Conferências com áreas de devops e infraestrutura para resolução de problemas. Participação de squads, 
+                Consulta a banco de dados, apoio no desenvolvimento e manutenção das aplicações. <br />
+
+                Penultima experiência: Analista de microinformática com foco em Acesso Remoto, Chamados SLA, Interação com outras áreas, Deploy, Instalação de 
+                Aplicações, Projetos, Configuração de Vlan’s, Atendimento no Local
+
 
 
             </p>
