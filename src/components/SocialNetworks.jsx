@@ -4,12 +4,16 @@ import "../styles/components/socialnetworks.sass";
 
 const socialNetworks = [
 
-    { name: "linkedin", icon: <FaLinkedinIn /> },
+    { name: "linkedin", icon: <FaLinkedinIn /> }
+
+  
+];
+
+const socialNetworks2 = [
 
     { name: "github", icon: <FaGithub /> },
 
     { name: "instagram", icon: <FaInstagram /> },
-
 
 ];
 
@@ -21,7 +25,7 @@ const SocialNetworks = () => {
 
             {socialNetworks.map((network) => (
 
-                <a href="#" className="social-btn" id={network.name} key={network.name} >
+                <a href="https://www.linkedin.com/in/viniciusjrcarlos/" className="social-btn" id={network.name} key={network.name} target="_blank" rel="noreferrer" >
                     {network.icon}
                 </a>
 
@@ -29,8 +33,31 @@ const SocialNetworks = () => {
 
     </section>
 
+
+
     );
 
 };
 
-export default SocialNetworks;
+const SocialNetworks2 = () => {
+
+    return (
+
+        <section id="social-networks">
+
+        {socialNetworks2.map((network) => (
+
+            <a href="#" className="social-btn" id={network.name} key={network.name} >
+                {network.icon}
+            </a>
+
+        ))}
+
+</section>
+
+
+    );
+
+};
+
+export default SocialNetworks; SocialNetworks2;

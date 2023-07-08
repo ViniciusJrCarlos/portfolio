@@ -1,5 +1,5 @@
 import "../styles/components/technologiescontainer.sass";
-import { DiHtml5, DiCss3, DiJsBadge, DiNodejsSmall,DiMysql, DiReact } from "react-icons/di";
+import { DiHtml5, DiCss3, DiJsBadge, DiNodejsSmall, DiMysql, DiReact, DiPhp, DiJava } from "react-icons/di";
 
 
 
@@ -11,7 +11,11 @@ const technologies = [
     { id: "node",  name:  "Node.js",    icon: <DiNodejsSmall /> },
     { id: "mysql", name:  "MySQL",      icon: <DiMysql /> },
     { id: "react", name:  "React",      icon: <DiReact /> },
-
+    { id: "php",   name:  "Php",        icon: <DiPhp /> },
+    { id: "java",  name:  "Java",       icon: <DiJava /> },
+    
+   
+  
 
 ];
 
@@ -30,7 +34,8 @@ const TechnologiesContainer = () => {
                             <h3>{tech.name}</h3>
                             <p>
 
-                                Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, 
+                                
+                                
                             
 
                             </p>
